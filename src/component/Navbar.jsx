@@ -11,10 +11,10 @@ const Navbar = () => {
         <h1 className="font-semibold text-3xl">Gu</h1>
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <a href="https://github.com/Gabriel-teck">
+        <a target="_blank" href="https://github.com/Gabriel-teck">
           <FaGithub />
         </a>
-        <a href="https://linkedin.com/in/gabriel-udoh-536859344">
+        <a target="_blank" href="https://linkedin.com/in/gabriel-udoh-536859344">
           <FaLinkedin />
         </a>
         <a href="">
